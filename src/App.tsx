@@ -4,7 +4,6 @@ import logo from './Logo-2.png';
 import cart from './shopping-cart.png';
 import profile from './noun_profile_2068277.png';
 import bannerImage from './Mask Group 1.png';
-import wishListIcon from './Path 28.png';
 
 function App() {
   return (
